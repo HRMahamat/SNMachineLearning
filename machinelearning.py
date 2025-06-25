@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import joblib
 
 # --- Chargement du modèle entraîné ---
-bundle = joblib.load("Hamad_Rassem_Mahamat_Model.joblib")
+bundle = joblib.load("Hamad_Rassem_Mahamat_Models.joblib")
 pipeline = bundle['pipeline']
 threshold = bundle['threshold']
 
