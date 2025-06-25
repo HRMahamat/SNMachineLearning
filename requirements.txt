@@ -3,4 +3,3 @@ pandas
 numpy
 matplotlib
 joblib
-scikit-learn==1.4.2
